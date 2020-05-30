@@ -5,7 +5,7 @@ This is the second Project of Udacity React Nanodegree Program. The main aim of 
 
 ## Running On Local Machine
 
-1. run `git clone https://github.com/jaspreet-singh37349/Udacity-Would-You-Rather.git` to clone this repository
+1. run `git clone https://github.com/ujjwal897/Udacity-Would-You-Rather.git` to clone this repository
 2. `cd Udacity-Would-You-Rather` then run `npm install`.
 3. `npm start` to start the app then navigate to http://localhost:3000/ on your local machine.
 
