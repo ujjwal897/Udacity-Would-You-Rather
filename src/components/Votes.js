@@ -12,7 +12,7 @@ class Votes extends Component {
 
     handleChange = (e) => {
         //alert(e.target.value)
-        this.setState({res:e.target.value})
+        this.setState({result:e.target.value})
     }
 
     handleSubmit = () => {
