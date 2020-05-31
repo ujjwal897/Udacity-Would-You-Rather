@@ -26,13 +26,13 @@ class NewQuestion extends Component {
 
     handleInput1Change = (e) => {
         this.setState({
-            input1:e.target.value
+            inpt1:e.target.value
         })
     };
 
     handleInput2Change = (e) => {
         this.setState({
-            input2:e.target.value
+            inpt2:e.target.value
         })
     };
 
